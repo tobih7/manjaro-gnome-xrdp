@@ -1,4 +1,4 @@
-# How to get XRDP running on Manjaro
+# How to get XRDP running on Manjaro GNOME
 
 ##### Basic stuff:
 - create/modify `/etc/X11/Xwrapper.config` with content `allowed_users=anybody`
