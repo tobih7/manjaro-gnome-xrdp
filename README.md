@@ -21,3 +21,7 @@ param=...
 param=-layout # This line is new.
 param=X11 Server # This line is new.
 ```
+
+#### Also helpful:
+- [Arch Wiki - XRDP](ihttps://wiki.archlinux.org/title/xrdp]https://wiki.archlinux.org/title/xrdp)
+- [#1456](https://github.com/neutrinolabs/xrdp/issues/1456)
