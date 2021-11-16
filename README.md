@@ -10,6 +10,7 @@
   - clone the repo with `git clone https://github.com/matt335672/pam_close_systemd_system_dbus`
   - run `sudo make install`
   - modify `/etc/pam.d/xrdp-sesman` as described in the repo's README
+  - Explanation: [#1684](https://github.com/neutrinolabs/xrdp/issues/1684)
 - Alternatively remove `pam_systemd_home.so` entries from /etc/pam.d/system-auth. Applying the hack is not necessary then.
 
 ### For NVIDIA this may be necessary:
