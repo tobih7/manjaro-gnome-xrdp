@@ -23,5 +23,6 @@ param=X11 Server # This line is new.
 ```
 
 #### Also helpful:
-- [Arch Wiki - XRDP](ihttps://wiki.archlinux.org/title/xrdp]https://wiki.archlinux.org/title/xrdp)
+- [Arch Wiki - XRDP](https://wiki.archlinux.org/title/xrdp]https://wiki.archlinux.org/title/xrdp)
 - [#1456](https://github.com/neutrinolabs/xrdp/issues/1456)
+- [Better performance](https://github.com/neutrinolabs/xrdp/issues/1483)
